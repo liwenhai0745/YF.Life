@@ -253,3 +253,5 @@ paket-files/
 
 # Life
 src/YF.Life.Web/Logs/logs.txt
+
+src/YF.Life.Web/appsettings.json
